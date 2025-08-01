@@ -1,10 +1,5 @@
-matplotlib
-numpy
-openpyxl
+
 pandas
 plotly
-seaborn
-statsmodels
 streamlit
-wordcloud
-runtime.txt
+
